@@ -1,0 +1,6 @@
+module Pods_english_management {
+  umbrella header "Pods-english_management-umbrella.h"
+
+  export *
+  module * { export * }
+}
